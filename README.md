@@ -5,3 +5,9 @@ JUEGOS:
 	Elden Ring
 	Hollow Knight
 	Blasphemous
+
+DEPORTES:
+
+	Vóleibol
+	Baloncesto
+	Bádminton
