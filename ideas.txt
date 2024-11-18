@@ -1,1 +1,2 @@
 Lunes 18 de noviembre de 2024, son las 13:43
+Esto es una frase agregada al fichero ideas.txt
